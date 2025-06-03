@@ -19,7 +19,7 @@ To understand what makes a password strong and evaluate it using free online too
 
 ## 📷 Screenshots
 
-All screenshots are included in the `screenshots` folder:
+All screenshots are included:
 - Kaspersky weak and strong results
 - Security.org strength meter
 - LastPass password generator result
